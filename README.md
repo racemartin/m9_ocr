@@ -166,12 +166,9 @@ Les notebooks produisent différents livrables de gouvernance :
 
 ```text
 .
-├── data/                 # Jeux de données
 ├── docs/                 # Documentation projet
-├── models/               # Modèles IA
 ├── notebooks/            # Notebooks Jupyter
 ├── references/           # Sources et références
-├── reports/              # Rapports générés
 ├── src/                  # Code source Python
 ├── requirements.txt
 ├── pyproject.toml
@@ -185,7 +182,7 @@ Les notebooks produisent différents livrables de gouvernance :
 ## Cloner le projet
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/racemartin/m9_ocr.git
 cd m9_ocr
 ```
 
