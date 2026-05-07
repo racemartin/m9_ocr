@@ -1,0 +1,38 @@
+[project]
+name = "m9-ocr"
+version = "0.1.0"
+description = "Réalisez le cadrage d'un projet IA"
+authors = [{name = "Rafael", email = "rafael.cerezo.martin@icloud.com"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+# Estas son las dependencias de producción
+dependencies = [
+    "pandas>=2.3.3",
+    "numpy==2.2.2",
+    "scipy>=1.16.3",
+    "scikit-learn>=1.7.2",
+    "statsmodels>=0.14.5",
+    "matplotlib<=3.10.0",
+    "seaborn>=0.13.2",
+    "python-dotenv>=1.2.1",
+    "tqdm>=4.67.1",
+]
+
+[dependency-groups]
+# Estas son las dependencias de desarrollo (lo que antes era tool.poetry.group.dev)
+dev = [
+    "ydata-profiling[notebook]>=4.18.0",
+    "jupyter-contrib-nbextensions>=0.7.0",
+    "ipywidgets>=8.1.8",
+    "polars>=1.36.1",
+    "tabulate>=0.9.0",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.5.0",
+    "ipykernel>=7.1.0",
+    "pre-commit>=4.5.0",
+    "black>=25.11.0",
+    "flake8>=7.3.0",
+    "requests>=2.32.5",
+    "pillow>=12.0.0",
+]
