@@ -1,11 +1,11 @@
-# 🛡️ Fashion Insta — Analyse des Risques IA & RGPD
+# 🛡️ Fashion Insta — Étude financière et Analyse des Risques RGPD
 
 <div align="left">
   <img src="docs/images/fashion_insta_logo.png" width="200px" alt="Logo Fashion Insta">
 </div>
 
 
-Analyse des risques d’un système d’IA appliqué au retail fashion.
+**Analyse des risques d’un système d’IA appliqué au retail fashion.**
 
 Ce repository contient plusieurs notebooks Jupyter permettant de construire progressivement une démarche complète de gouvernance, conformité RGPD, gestion des risques et pilotage d’un projet IA multimodal basé sur Azure OpenAI.
 
