@@ -36,20 +36,35 @@ L’objectif principal est de démontrer comment structurer un projet IA moderne
 
 # 📚 Contenu des notebooks
 
-## 📘 01 — Étude du projet IA Fashion Insta
+## 📘 01 — Étude financière, organisationnelle & ROI du projet IA Fashion Insta
 
-Notebook d’introduction présentant :
+Premier notebook consacré à la structuration opérationnelle et financière du projet.
 
-* le contexte métier
-* l’architecture cible
-* les enjeux IA
-* les contraintes cloud Azure
-* les problématiques RGPD
-* les objectifs business
-* les indicateurs de succès
+Il permet de modéliser les coûts, les ressources humaines, les responsabilités et la rentabilité prévisionnelle d’une plateforme IA multimodale appliquée au retail fashion.
 
-Ce notebook sert de base documentaire au projet.
+### 📋 Contenu principal
 
+#### Section 1 — Profils & TJM
+
+* définition des rôles projet
+* taux journaliers moyens (TJM)
+* répartition des expertises
+* estimation des charges humaines
+
+#### Section 2 — Implication croisée : Profil × Phase
+
+* matrice d’implication des équipes
+* allocation des ressources par phase
+
+#### Section 3 — Coûts RH détaillés par phase
+* coûts détaillés par profil
+
+#### Section 4 — Matrice RACI
+#### Section 5 — Coûts récurrents mensuels (Production)
+#### Section 6 — ROI & Projection de rentabilité
+#### Section 7 — Synthèse exécutive COMEX
+
+Ce notebook sert de base financière, organisationnelle et stratégique au projet.
 ---
 
 ## 📙 02 — Analyse des Risques IA & RGPD
