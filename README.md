@@ -1,7 +1,7 @@
 # 🛡️ Fashion Insta — Analyse des Risques IA & RGPD
 
 <div align="left">
-  <img src="docs/images/fashion_insta_logo" width="200px" alt="Logo Fashion Insta">
+  <img src="docs/images/fashion_insta_logo.png" width="200px" alt="Logo Fashion Insta">
 </div>
 
 
