@@ -9,6 +9,13 @@
 
 Ce repository contient plusieurs notebooks Jupyter permettant de construire progressivement une démarche complète de gouvernance, conformité RGPD, gestion des risques et pilotage d’un projet IA multimodal basé sur Azure OpenAI.
 
+## 📂 Documentation du projet
+
+| Partie         | Description                                                                                                                                                                                                              | 
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Support de Presentation** | Développement d’une application mobile de recommandation d’articles vestimentaires basée sur des photos   <br/>[M9_Realisez_le_cadrage_d_un_projet_IA.pptx.pdf](docs/M9_Realisez_le_cadrage_d_un_projet_IA.pptx.pdf)     |
+| **Notebooks 1/2** | Étude financière, organisationnelle & ROI du projet IA Fashion Insta                                                <br/>[01_FashionInsta_Cadrage_Projet_Couts_ROI.ipynb](notebooks/01_FashionInsta_Cadrage_Projet_Couts_ROI.ipynb) |  
+| **Notebooks 2/2** | Analyse des Risques IA & RGPD <br/>[📖 README Partie 2](README_2_2.md)                                              <br/>[02_FashionInsta_Analyse_Risques.ipynb](notebooks/02_FashionInsta_Analyse_Risques.ipynb)      |  
 
 ---
 
